@@ -1,8 +1,15 @@
 h1{
 background-color: red;
-
-
+height: 35px;
+width: 270px;
 }
 p{
     background-color: blue;
+    height: 35px;
+    width: 270px;
+}
+header{
+background-color: yellow;
+height: 35px;
+width: 270px;
 }
