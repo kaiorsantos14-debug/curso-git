@@ -1,15 +1,36 @@
-h1{
-background-color: red;
-height: 35px;
-width: 270px;
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #eeeeee;
 }
-p{
-    background-color: blue;
-    height: 35px;
+header {
+    background-color: yellow;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+h1 {
+    background-color: red;
+    color: white;
     width: 270px;
+    padding: 15px;
+    margin: 30px auto 10px;
+    text-align: center;
 }
-header{
-background-color: yellow;
-height: 35px;
-width: 270px;
+p {
+    background-color: blue;
+    color: white;
+    width: 270px;
+    padding: 15px;
+    margin: 10px auto;
+    text-align: center;
+}
+footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
 }
